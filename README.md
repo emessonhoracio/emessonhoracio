@@ -2,7 +2,7 @@
 
  - Aluno do IFAl-Maceio 🧑🏻‍🎓
  - Estudante de SI 👨🏻‍💻
- - Estagiario na SEPLAG-AL 🪪
+ - Analista de BI na Asa Branca Distribuidora 🪪
 
 ##
 
